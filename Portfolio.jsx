@@ -317,7 +317,7 @@ export default function Portfolio({ accent = "#CBFF4D" }) {
             <div style={{ display: "flex", flexWrap: "wrap", gap: 8, marginTop: 6 }}>
               <a href="mailto:madhusmitapalei916@gmail.com" style={pill}>email</a>
               <a href="https://linkedin.com/in/madhusmita-p/" style={pill}>linkedin</a>
-              <a href="https://github.com/madhusmita-p" style={pill}>github</a>
+              <a href="https://github.com/madhusmitapalai" style={pill}>github</a>
             </div>
           </div>
         </div>
