@@ -91,7 +91,7 @@ const PROJECTS = [
 const ROLES = [
   {
     id: "pinnacle",
-    company: "Pinnacle Software and Services",
+    company: "Pinnacle Software and Services Pvt Ltd",
     title: "Software Developer",
     dates: "Oct 2023 — Present",
     place: "Trivandrum · Hybrid",
