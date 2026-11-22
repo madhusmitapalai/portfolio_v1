@@ -419,9 +419,7 @@ export default function Portfolio({ accent = "#CBFF4D" }) {
         <a href="mailto:madhusmitapalei916@gmail.com" style={{ display: "block", marginTop: "clamp(18px,3vw,36px)", fontSize: "clamp(26px,6.5vw,86px)", lineHeight: 1, letterSpacing: "-.045em", fontWeight: 700, color: TEXT, wordBreak: "break-word", textDecoration: "none" }}>
           madhusmitapalei916<br />@gmail.com
         </a>
-        <a href="tel:+919668145551" style={{ display: "inline-block", marginTop: "clamp(14px,2.4vw,24px)", fontFamily: MONO, fontSize: "clamp(14px,1.8vw,18px)", color: MUTED, textDecoration: "none" }}>
-          +91 96681 45551
-        </a>
+      
         <div style={{ display: "flex", flexWrap: "wrap", gap: 20, justifyContent: "space-between", marginTop: "clamp(32px,5vw,64px)", paddingTop: 20, borderTop: `1px solid ${LINE}`, fontFamily: MONO, fontSize: 11, color: DIM, letterSpacing: ".1em", textTransform: "uppercase" }}>
           <span>© 2026 Madhusmita Palai</span>
           <img
