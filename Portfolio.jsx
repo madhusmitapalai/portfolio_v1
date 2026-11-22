@@ -305,7 +305,7 @@ export default function Portfolio({ accent = "#CBFF4D" }) {
               style={{ width: "clamp(64px,7vw,96px)", height: "clamp(64px,7vw,96px)", borderRadius: "50%", objectFit: "cover", flexShrink: 0, border: `2px solid ${accent}` }}
             />
             <p style={{ margin: 0, fontSize: "clamp(15px,1.35vw,19px)", lineHeight: 1.55, color: "#B9B9B4", maxWidth: "52ch", textWrap: "pretty" }}>
-             Software Developer with 3+ years of experience building enterprise-grade web applications using React.js (ReactJS), JavaScript, Zustand,
+             Software Developer with 3+ years of experience building enterprise-grade web applications using React.js, JavaScript, Zustand,
 Redux, and Ant Design. Experienced in developing reusable components, integrating RESTful APIs, managing application state, and
 working in NX monorepo architectures with Jest and Cypress testing. Now expanding into backend development with Java, Spring Boot,
 MySQL, and Redis, building CRUD APIs and contributing to full-stack delivery
